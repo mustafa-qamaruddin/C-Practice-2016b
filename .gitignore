@@ -31,11 +31,11 @@
 *.out
 *.app
 
-# Custom
-RemoteSystemsTempFiles/*
-RemoteSystemsTempFiles
-RemoteSystemsTempFiles/
-/RemoteSystemsTempFiles
+# Custom/
 *.xmi
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
 .metadata/
+.settings/
+Debug/
+.cproject
+.project
